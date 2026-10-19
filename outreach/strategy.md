@@ -35,7 +35,7 @@
 |---|---|
 | Mon | Update targets.csv statuses; pick 5 new targets |
 | Tue | Send 5 DMs/emails (templates #1, #2, #4) |
-| Wed | Post a 30-60s clip to @Paulmchase; tag past hosts |
+| Wed | Post a 30-60s clip to @chase_m.music; tag past hosts |
 | Thu | Follow-ups on anything 5-7 days old (template #5) |
 | Fri/Sat | Gig, or go to a campus event/bar night and meet people in person |
 | Sun | Thank-yous and testimonial asks (template #6); ask for 2 referrals |

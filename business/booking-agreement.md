@@ -2,7 +2,7 @@
 
 > **Template, not legal advice.** This is a plain-English starting point. Have someone qualified review it before relying on it (Bentley may offer student legal or entrepreneurship resources). Replace every [PLACEHOLDER].
 
-**DJ:** Chasem [LAST NAME] ("DJ"), [PHONE], [EMAIL], IG @[HANDLE]
+**DJ:** Chasem [LAST NAME] ("DJ"), [PHONE], Chasemp207@gmail.com, IG @chase_m.music
 **Client:** [CLIENT NAME / ORGANIZATION] ("Client"), contact [NAME], [PHONE], [EMAIL]
 
 ## 1. Event

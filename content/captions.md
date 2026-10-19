@@ -24,7 +24,7 @@ These are written in first person for Chasem to post. Swap in the [BRACKETS]. Ke
 
 ## Booking calls to action
 13. Booking fall/spring formals, DM me 📩 Frats, sororities, clubs, private parties around Boston.
-14. Planning a party? Open format, house lean, and I read the room. DMs open or [EMAIL].
+14. Planning a party? Open format, house lean, and I read the room. DMs open or Chasemp207@gmail.com.
 15. Formal season fills up fast. If your org still needs a DJ, let's talk 🎧
 16. Student org at Bentley, Babson or around Boston? I'm looking to collab on events. DM me.
 
@@ -43,4 +43,4 @@ These are written in first person for Chasem to post. Swap in the [BRACKETS]. Ke
 **Sound:** #housemusic #techhouse #openformatdj #djmix #transitions #djlife
 **Halloween (Week 2 only):** #halloweenparty #halloweenweekend #bostonhalloween
 
-*TikTok: 3–5 tags is enough, so mix one sound tag, one Boston tag, one college tag and one trending tag. IG: put the tags at the end of the caption.*
+*IG: put the tags at the end of the caption, and mix sound, Boston and college tags.*

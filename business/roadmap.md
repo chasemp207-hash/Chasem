@@ -16,9 +16,9 @@
 
 | Week | Dates | Milestones |
 |---|---|---|
-| 1 | Oct 19-25 | Set up IG handle (@[DJ name]), bio, and a link to a booking form or DM. Finalize the rate card and agreement. Make a Google Sheet tracker. Tell the Babson frat: "I'm charging $[friends rate] starting Halloween." Read Bentley's student business rules. |
-| 2 | Oct 26-Nov 1 | **HALLOWEEN.** Play Babson Halloween as the **first paid gig** (even $100 counts). Film 3-5 short clips (crowd + decks). Ask the host for a 1-line testimonial. |
-| 3 | Nov 2-8 | Post 2 Halloween clips. Record and upload **Mix #1** (30-45 min, party/open-format) to SoundCloud/Mixcloud. DM 10 social chairs at Bentley (and other Babson houses) with the mix + clips. |
+| 1 | Oct 19-25 | Update @chase_m.music: bio, and a link to a booking form or DM. Finalize the rate card and agreement. Make a Google Sheet tracker. Pitch your brother's frat and other Babson houses for a **paid** Halloween-weekend slot at $[friends rate] (nothing is booked yet). Read Bentley's student business rules. |
+| 2 | Oct 26-Nov 1 | **HALLOWEEN.** If a Halloween-weekend gig comes through, make it the **first paid gig** (even $100 counts), film 3-5 short clips and ask the host for a 1-line testimonial. If not, film practice content and keep pitching for November parties. |
+| 3 | Nov 2-8 | Post 2 clips (Halloween footage if you played). Record and upload **Mix #1** (30-45 min, party/open-format) to SoundCloud/Mixcloud. DM 10 social chairs at Bentley (and other Babson houses) with the mix + clips. |
 | 4 | Nov 9-15 | Land the **first gig outside Babson's frat** (Bentley org, another Babson house, or a house party). Use the agreement + 50% deposit. |
 | 5 | Nov 16-22 | Play gig(s). Follow up with every past client: "Want to lock in a spring date?" Post 2-3 times a week (clips, a transition, behind the scenes). |
 | 6 | Nov 23-29 | Thanksgiving. Rest. Batch-edit IG content. Research and price a sub/speakers. Get one rental quote. |
@@ -36,7 +36,7 @@
 
 | By | Target |
 |---|---|
-| Nov 1 | First paid gig done; IG live with clips |
+| Mid-Nov | First paid gig done (Halloween weekend if one gets booked); IG live with clips |
 | Nov 15 | First gig outside the Babson frat; Mix #1 posted |
 | Dec 20 | 4-6 paid gigs total; ~$600-$1,000 gross; 2 spring dates on hold |
 | Jan 31 | 6-9 paid gigs; **3 repeat clients**; $1,000-$1,800 gross; spring formal bookings in the calendar |
