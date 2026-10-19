@@ -4,7 +4,7 @@
 
 ## Instagram bio options (each 150 characters or fewer)
 
-1. `House-leaning open-format DJ 🎧 Bentley student | Boston area | Frat parties, formals, campus events | Booking: DM or Chasemp207@gmail.com` (about 125 characters)
+1. `House-leaning open-format DJ 🎧 Bentley student | Boston area | Frat parties, formals, campus events | Booking: DM or Chasemp207@gmail.com` (about 140 characters)
 2. `College DJ reading the room, house at heart 🏠 Waltham/Boston | Now booking formals + parties ↓ DMs open` (about 103 characters)
 3. `Chasem 🎧 House-first, open-format | Bentley '30 | Parties & formals around Boston | DM to book` (about 104 characters)
 4. `Open-format sets with a house lean. Student DJ in Waltham, MA. Booking fall/spring formals + parties: DM me` (about 107 characters)
