@@ -11,6 +11,8 @@
 
 ## Week 1: Oct 19 to 25, "Who is Chasem?"
 
+> **Replaced:** Week 1 is now 7 daily transition Reels filmed on Oct 19. See `filming-day-oct19.md`. The table below is kept for reference (the Stories ideas are optional extras).
+
 | Day | Platform | Format | Idea | How to film it on a phone |
 |---|---|---|---|---|
 | Mon 10/19 | IG | Reel / video (15–20s) | Intro: "College DJ in Boston, here's my sound" with the best 15s of a house-to-open-format transition | Phone on a tripod at a 45° angle over the controller, hands and screen in frame. Record the controller's master out into the phone or edit in clean audio later |
